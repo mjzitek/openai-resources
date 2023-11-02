@@ -6,6 +6,8 @@
 - [OpenAI Fine-tuning](https://platform.openai.com/playground?mode=chat)
 
 ### Azure OpenAI
+- [Azure OpenAI](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
+- [Azure OpenAI Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/)
 
 ### Code Examples
 - [OpenAI Cookbook](https://cookbook.openai.com/)

@@ -1,6 +1,6 @@
-# Open AI Resources
+# OpenAI Resources
 
-### Open AI
+### OpenAI
 - [OpenAI Playground](https://platform.openai.com/playground?mode=chat)
 - [OpenAI Example](https://platform.openai.com/playground?mode=chat)
 - [OpenAI Fine-tuning](https://platform.openai.com/playground?mode=chat)
